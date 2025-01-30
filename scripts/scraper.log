@@ -1,0 +1,583 @@
+2025-01-31 00:35:48,011 - ERROR - Schema migration error: syntax error at or near "NOT"
+LINE 3:         ADD CONSTRAINT IF NOT EXISTS channel_message_unique 
+                                  ^
+
+2025-01-31 00:35:48,190 - INFO - Connecting to 149.154.167.51:443/TcpFull...
+2025-01-31 00:35:49,886 - INFO - Connection to 149.154.167.51:443/TcpFull complete!
+2025-01-31 00:35:55,423 - INFO - Phone migrated to 4
+2025-01-31 00:35:55,527 - INFO - Reconnecting to new data center 4
+2025-01-31 00:35:55,654 - INFO - Disconnecting from 149.154.167.51:443/TcpFull...
+2025-01-31 00:35:55,655 - INFO - Disconnection from 149.154.167.51:443/TcpFull complete!
+2025-01-31 00:35:55,655 - INFO - Connecting to 149.154.167.92:443/TcpFull...
+2025-01-31 00:35:57,339 - INFO - Connection to 149.154.167.92:443/TcpFull complete!
+2025-01-31 00:36:08,293 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:09,243 - INFO - Old message 864 from DoctorsET saved.
+2025-01-31 00:36:09,244 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:10,452 - INFO - Old message 863 from DoctorsET saved.
+2025-01-31 00:36:10,453 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:11,668 - INFO - Old message 862 from DoctorsET saved.
+2025-01-31 00:36:11,669 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:12,800 - INFO - Old message 861 from DoctorsET saved.
+2025-01-31 00:36:12,801 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:13,616 - INFO - Old message 860 from DoctorsET saved.
+2025-01-31 00:36:13,618 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:14,300 - INFO - Old message 859 from DoctorsET saved.
+2025-01-31 00:36:14,301 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:15,557 - INFO - Old message 848 from DoctorsET saved.
+2025-01-31 00:36:15,558 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:16,570 - INFO - Old message 847 from DoctorsET saved.
+2025-01-31 00:36:16,571 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:17,910 - INFO - Old message 846 from DoctorsET saved.
+2025-01-31 00:36:17,911 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:19,101 - INFO - Old message 845 from DoctorsET saved.
+2025-01-31 00:36:19,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:20,490 - INFO - Old message 844 from DoctorsET saved.
+2025-01-31 00:36:20,491 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:21,891 - INFO - Old message 843 from DoctorsET saved.
+2025-01-31 00:36:21,892 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:22,520 - INFO - Old message 842 from DoctorsET saved.
+2025-01-31 00:36:22,521 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:23,275 - INFO - Old message 841 from DoctorsET saved.
+2025-01-31 00:36:23,277 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:23,869 - INFO - Old message 840 from DoctorsET saved.
+2025-01-31 00:36:23,870 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:25,100 - INFO - Old message 839 from DoctorsET saved.
+2025-01-31 00:36:25,101 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:26,464 - INFO - Old message 836 from DoctorsET saved.
+2025-01-31 00:36:26,465 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:27,158 - INFO - Old message 835 from DoctorsET saved.
+2025-01-31 00:36:27,159 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:27,847 - INFO - Old message 834 from DoctorsET saved.
+2025-01-31 00:36:27,848 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:28,719 - INFO - Old message 833 from DoctorsET saved.
+2025-01-31 00:36:28,720 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:29,940 - INFO - Old message 832 from DoctorsET saved.
+2025-01-31 00:36:29,941 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:30,724 - INFO - Old message 831 from DoctorsET saved.
+2025-01-31 00:36:30,725 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:32,404 - INFO - Old message 830 from DoctorsET saved.
+2025-01-31 00:36:32,405 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:33,415 - INFO - Old message 829 from DoctorsET saved.
+2025-01-31 00:36:33,417 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:34,477 - INFO - Old message 828 from DoctorsET saved.
+2025-01-31 00:36:34,478 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:35,221 - INFO - Old message 827 from DoctorsET saved.
+2025-01-31 00:36:35,222 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:35,937 - INFO - Old message 826 from DoctorsET saved.
+2025-01-31 00:36:35,938 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:36,743 - INFO - Old message 825 from DoctorsET saved.
+2025-01-31 00:36:36,744 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:37,455 - INFO - Old message 824 from DoctorsET saved.
+2025-01-31 00:36:37,456 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:38,073 - INFO - Old message 823 from DoctorsET saved.
+2025-01-31 00:36:38,075 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:38,823 - INFO - Old message 822 from DoctorsET saved.
+2025-01-31 00:36:38,824 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:40,328 - INFO - Old message 821 from DoctorsET saved.
+2025-01-31 00:36:40,329 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:41,124 - INFO - Old message 820 from DoctorsET saved.
+2025-01-31 00:36:41,125 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:41,757 - INFO - Old message 819 from DoctorsET saved.
+2025-01-31 00:36:41,758 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:36:42,665 - INFO - Old message 818 from DoctorsET saved.
+2025-01-31 00:36:42,666 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:44,837 - INFO - Old message 817 from DoctorsET saved.
+2025-01-31 00:38:44,839 - INFO - Old message 815 from DoctorsET saved.
+2025-01-31 00:38:44,840 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:45,514 - INFO - Old message 814 from DoctorsET saved.
+2025-01-31 00:38:45,515 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:46,369 - INFO - Old message 813 from DoctorsET saved.
+2025-01-31 00:38:46,370 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:47,230 - INFO - Old message 812 from DoctorsET saved.
+2025-01-31 00:38:47,231 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:48,593 - INFO - Old message 811 from DoctorsET saved.
+2025-01-31 00:38:48,594 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:49,638 - INFO - Old message 810 from DoctorsET saved.
+2025-01-31 00:38:49,640 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:50,732 - INFO - Old message 809 from DoctorsET saved.
+2025-01-31 00:38:50,733 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:52,314 - INFO - Old message 808 from DoctorsET saved.
+2025-01-31 00:38:52,315 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:54,900 - INFO - Old message 807 from DoctorsET saved.
+2025-01-31 00:38:54,901 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:56,533 - INFO - Old message 805 from DoctorsET saved.
+2025-01-31 00:38:56,534 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:57,972 - INFO - Old message 804 from DoctorsET saved.
+2025-01-31 00:38:57,973 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:38:59,118 - INFO - Old message 802 from DoctorsET saved.
+2025-01-31 00:38:59,119 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:00,182 - INFO - Old message 801 from DoctorsET saved.
+2025-01-31 00:39:00,184 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:01,235 - INFO - Old message 800 from DoctorsET saved.
+2025-01-31 00:39:01,237 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:02,107 - INFO - Old message 799 from DoctorsET saved.
+2025-01-31 00:39:02,108 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:03,048 - INFO - Old message 798 from DoctorsET saved.
+2025-01-31 00:39:03,049 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:04,010 - INFO - Old message 797 from DoctorsET saved.
+2025-01-31 00:39:04,011 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:04,893 - INFO - Old message 796 from DoctorsET saved.
+2025-01-31 00:39:04,895 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:06,437 - INFO - Old message 795 from DoctorsET saved.
+2025-01-31 00:39:06,438 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:07,533 - INFO - Old message 794 from DoctorsET saved.
+2025-01-31 00:39:07,535 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:08,518 - INFO - Old message 793 from DoctorsET saved.
+2025-01-31 00:39:08,519 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:09,745 - INFO - Old message 792 from DoctorsET saved.
+2025-01-31 00:39:09,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:11,341 - INFO - Old message 791 from DoctorsET saved.
+2025-01-31 00:39:11,342 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:12,962 - INFO - Old message 790 from DoctorsET saved.
+2025-01-31 00:39:12,963 - INFO - Old message 789 from DoctorsET saved.
+2025-01-31 00:39:12,965 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:13,712 - INFO - Old message 788 from DoctorsET saved.
+2025-01-31 00:39:13,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:14,608 - INFO - Old message 787 from DoctorsET saved.
+2025-01-31 00:39:14,609 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:15,512 - INFO - Old message 786 from DoctorsET saved.
+2025-01-31 00:39:15,513 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:17,110 - INFO - Old message 785 from DoctorsET saved.
+2025-01-31 00:39:17,111 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:18,153 - INFO - Old message 784 from DoctorsET saved.
+2025-01-31 00:39:18,155 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:19,178 - INFO - Old message 783 from DoctorsET saved.
+2025-01-31 00:39:19,179 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:20,360 - INFO - Old message 782 from DoctorsET saved.
+2025-01-31 00:39:20,361 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:22,069 - INFO - Old message 781 from DoctorsET saved.
+2025-01-31 00:39:22,070 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:23,795 - INFO - Old message 780 from DoctorsET saved.
+2025-01-31 00:39:23,796 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:25,199 - INFO - Old message 779 from DoctorsET saved.
+2025-01-31 00:39:25,201 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:27,191 - INFO - Old message 778 from DoctorsET saved.
+2025-01-31 00:39:27,192 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:28,193 - INFO - Old message 777 from DoctorsET saved.
+2025-01-31 00:39:28,194 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:29,769 - INFO - Old message 776 from DoctorsET saved.
+2025-01-31 00:39:29,770 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:31,393 - INFO - Old message 775 from DoctorsET saved.
+2025-01-31 00:39:31,394 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:33,178 - INFO - Old message 774 from DoctorsET saved.
+2025-01-31 00:39:33,179 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:34,101 - INFO - Old message 773 from DoctorsET saved.
+2025-01-31 00:39:34,102 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:35,165 - INFO - Old message 772 from DoctorsET saved.
+2025-01-31 00:39:35,166 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:37,030 - INFO - Old message 771 from DoctorsET saved.
+2025-01-31 00:39:37,032 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:37,976 - INFO - Old message 770 from DoctorsET saved.
+2025-01-31 00:39:37,978 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:39,215 - INFO - Old message 769 from DoctorsET saved.
+2025-01-31 00:39:39,216 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:40,944 - INFO - Old message 768 from DoctorsET saved.
+2025-01-31 00:39:40,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:41,815 - INFO - Old message 767 from DoctorsET saved.
+2025-01-31 00:39:41,816 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:42,813 - INFO - Old message 766 from DoctorsET saved.
+2025-01-31 00:39:42,814 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:44,168 - INFO - Old message 765 from DoctorsET saved.
+2025-01-31 00:39:44,169 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:45,742 - INFO - Old message 764 from DoctorsET saved.
+2025-01-31 00:39:45,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:47,662 - INFO - Old message 763 from DoctorsET saved.
+2025-01-31 00:39:47,663 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:48,853 - INFO - Old message 762 from DoctorsET saved.
+2025-01-31 00:39:48,855 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:51,296 - INFO - Old message 761 from DoctorsET saved.
+2025-01-31 00:39:51,297 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:52,213 - INFO - Old message 760 from DoctorsET saved.
+2025-01-31 00:39:52,214 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:53,781 - INFO - Old message 759 from DoctorsET saved.
+2025-01-31 00:39:53,782 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:55,609 - INFO - Old message 758 from DoctorsET saved.
+2025-01-31 00:39:55,610 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:57,362 - INFO - Old message 757 from DoctorsET saved.
+2025-01-31 00:39:57,364 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:58,327 - INFO - Old message 756 from DoctorsET saved.
+2025-01-31 00:39:58,329 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:59,100 - INFO - Old message 755 from DoctorsET saved.
+2025-01-31 00:39:59,101 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:39:59,903 - INFO - Old message 754 from DoctorsET saved.
+2025-01-31 00:39:59,904 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:00,935 - INFO - Old message 753 from DoctorsET saved.
+2025-01-31 00:40:00,936 - INFO - Old message 752 from DoctorsET saved.
+2025-01-31 00:40:00,937 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:02,743 - INFO - Old message 751 from DoctorsET saved.
+2025-01-31 00:40:02,744 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:03,276 - INFO - Old message 750 from DoctorsET saved.
+2025-01-31 00:40:03,878 - INFO - Old message 749 from DoctorsET saved.
+2025-01-31 00:40:03,879 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:05,264 - INFO - Old message 748 from DoctorsET saved.
+2025-01-31 00:40:05,265 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:06,444 - INFO - Old message 747 from DoctorsET saved.
+2025-01-31 00:40:06,445 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:07,663 - INFO - Old message 746 from DoctorsET saved.
+2025-01-31 00:40:07,664 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:08,979 - INFO - Old message 745 from DoctorsET saved.
+2025-01-31 00:40:08,980 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:09,849 - INFO - Old message 744 from DoctorsET saved.
+2025-01-31 00:40:09,850 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:10,992 - INFO - Old message 743 from DoctorsET saved.
+2025-01-31 00:40:10,993 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:11,943 - INFO - Old message 742 from DoctorsET saved.
+2025-01-31 00:40:11,945 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:12,762 - INFO - Old message 741 from DoctorsET saved.
+2025-01-31 00:40:12,763 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:13,661 - INFO - Old message 740 from DoctorsET saved.
+2025-01-31 00:40:13,662 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:14,184 - INFO - Old message 739 from DoctorsET saved.
+2025-01-31 00:40:14,186 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:14,730 - INFO - Old message 738 from DoctorsET saved.
+2025-01-31 00:40:14,732 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:15,320 - INFO - Old message 737 from DoctorsET saved.
+2025-01-31 00:40:15,321 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:16,307 - INFO - Old message 736 from DoctorsET saved.
+2025-01-31 00:40:16,308 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:17,899 - INFO - Old message 734 from DoctorsET saved.
+2025-01-31 00:40:17,900 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:18,468 - INFO - Old message 733 from DoctorsET saved.
+2025-01-31 00:40:18,469 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:19,840 - INFO - Old message 732 from DoctorsET saved.
+2025-01-31 00:40:19,841 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:21,339 - INFO - Old message 731 from DoctorsET saved.
+2025-01-31 00:40:21,340 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:22,877 - INFO - Old message 730 from DoctorsET saved.
+2025-01-31 00:40:22,878 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:23,509 - INFO - Old message 729 from DoctorsET saved.
+2025-01-31 00:40:23,510 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:24,063 - INFO - Old message 728 from DoctorsET saved.
+2025-01-31 00:40:24,064 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:24,566 - INFO - Old message 727 from DoctorsET saved.
+2025-01-31 00:40:24,567 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:26,626 - INFO - Old message 726 from DoctorsET saved.
+2025-01-31 00:40:26,627 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:27,670 - INFO - Old message 725 from DoctorsET saved.
+2025-01-31 00:40:27,672 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:28,799 - INFO - Old message 724 from DoctorsET saved.
+2025-01-31 00:40:28,801 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:29,377 - INFO - Old message 723 from DoctorsET saved.
+2025-01-31 00:40:29,378 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:31,422 - INFO - Old message 722 from DoctorsET saved.
+2025-01-31 00:40:31,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:32,589 - INFO - Old message 721 from DoctorsET saved.
+2025-01-31 00:40:32,590 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:33,741 - INFO - Old message 720 from DoctorsET saved.
+2025-01-31 00:40:33,743 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:35,269 - INFO - Old message 719 from DoctorsET saved.
+2025-01-31 00:40:35,271 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:36,179 - INFO - Old message 718 from DoctorsET saved.
+2025-01-31 00:40:36,181 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:37,139 - INFO - Old message 717 from DoctorsET saved.
+2025-01-31 00:40:37,140 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:38,283 - INFO - Old message 716 from DoctorsET saved.
+2025-01-31 00:40:38,284 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:40,363 - INFO - Old message 715 from DoctorsET saved.
+2025-01-31 00:40:40,364 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:42,551 - INFO - Old message 714 from DoctorsET saved.
+2025-01-31 00:40:42,553 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:44,288 - INFO - Old message 713 from DoctorsET saved.
+2025-01-31 00:40:44,289 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:45,690 - INFO - Old message 712 from DoctorsET saved.
+2025-01-31 00:40:45,691 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:46,880 - INFO - Old message 711 from DoctorsET saved.
+2025-01-31 00:40:46,881 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:48,352 - INFO - Old message 710 from DoctorsET saved.
+2025-01-31 00:40:48,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:49,846 - INFO - Old message 709 from DoctorsET saved.
+2025-01-31 00:40:49,847 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:51,778 - INFO - Old message 708 from DoctorsET saved.
+2025-01-31 00:40:51,779 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:52,600 - INFO - Old message 707 from DoctorsET saved.
+2025-01-31 00:40:52,601 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:54,368 - INFO - Old message 706 from DoctorsET saved.
+2025-01-31 00:40:54,369 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:56,035 - INFO - Old message 704 from DoctorsET saved.
+2025-01-31 00:40:56,036 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:58,079 - INFO - Old message 703 from DoctorsET saved.
+2025-01-31 00:40:58,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:40:59,717 - INFO - Old message 702 from DoctorsET saved.
+2025-01-31 00:40:59,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:00,838 - INFO - Old message 701 from DoctorsET saved.
+2025-01-31 00:41:00,840 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:03,047 - INFO - Old message 700 from DoctorsET saved.
+2025-01-31 00:41:03,048 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:03,819 - INFO - Old message 699 from DoctorsET saved.
+2025-01-31 00:41:03,820 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:04,539 - INFO - Old message 698 from DoctorsET saved.
+2025-01-31 00:41:04,540 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:05,613 - INFO - Old message 697 from DoctorsET saved.
+2025-01-31 00:41:05,614 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:06,079 - INFO - Old message 696 from DoctorsET saved.
+2025-01-31 00:41:06,080 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:07,914 - INFO - Old message 695 from DoctorsET saved.
+2025-01-31 00:41:07,915 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:09,337 - INFO - Old message 694 from DoctorsET saved.
+2025-01-31 00:41:09,338 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:10,660 - INFO - Old message 693 from DoctorsET saved.
+2025-01-31 00:41:10,661 - INFO - Old message 692 from DoctorsET saved.
+2025-01-31 00:41:10,662 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:12,293 - INFO - Old message 691 from DoctorsET saved.
+2025-01-31 00:41:12,294 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:14,228 - INFO - Old message 689 from DoctorsET saved.
+2025-01-31 00:41:14,229 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:15,431 - INFO - Old message 688 from DoctorsET saved.
+2025-01-31 00:41:15,432 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:16,342 - INFO - Old message 687 from DoctorsET saved.
+2025-01-31 00:41:16,343 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:17,844 - INFO - Old message 686 from DoctorsET saved.
+2025-01-31 00:41:17,845 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:19,023 - INFO - Old message 685 from DoctorsET saved.
+2025-01-31 00:41:19,024 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:20,552 - INFO - Old message 684 from DoctorsET saved.
+2025-01-31 00:41:20,553 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:22,174 - INFO - Old message 683 from DoctorsET saved.
+2025-01-31 00:41:22,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:23,772 - INFO - Old message 682 from DoctorsET saved.
+2025-01-31 00:41:23,774 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:25,315 - INFO - Old message 681 from DoctorsET saved.
+2025-01-31 00:41:25,316 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:27,285 - INFO - Old message 680 from DoctorsET saved.
+2025-01-31 00:41:27,286 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:28,699 - INFO - Old message 679 from DoctorsET saved.
+2025-01-31 00:41:28,701 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:30,511 - INFO - Old message 678 from DoctorsET saved.
+2025-01-31 00:41:30,512 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:31,286 - INFO - Old message 677 from DoctorsET saved.
+2025-01-31 00:41:31,287 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:32,439 - INFO - Old message 676 from DoctorsET saved.
+2025-01-31 00:41:32,441 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:33,414 - INFO - Old message 675 from DoctorsET saved.
+2025-01-31 00:41:33,415 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:34,449 - INFO - Old message 674 from DoctorsET saved.
+2025-01-31 00:41:34,450 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:35,583 - INFO - Old message 673 from DoctorsET saved.
+2025-01-31 00:41:35,584 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:36,606 - INFO - Old message 672 from DoctorsET saved.
+2025-01-31 00:41:36,608 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:37,768 - INFO - Old message 671 from DoctorsET saved.
+2025-01-31 00:41:37,769 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:38,990 - INFO - Old message 670 from DoctorsET saved.
+2025-01-31 00:41:38,991 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:40,391 - INFO - Old message 669 from DoctorsET saved.
+2025-01-31 00:41:40,392 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:41,392 - INFO - Old message 668 from DoctorsET saved.
+2025-01-31 00:41:41,393 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:42,334 - INFO - Old message 667 from DoctorsET saved.
+2025-01-31 00:41:42,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:44,196 - INFO - Old message 666 from DoctorsET saved.
+2025-01-31 00:41:44,198 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:45,342 - INFO - Old message 665 from DoctorsET saved.
+2025-01-31 00:41:45,344 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:46,692 - INFO - Old message 664 from DoctorsET saved.
+2025-01-31 00:41:46,693 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:48,165 - INFO - Old message 663 from DoctorsET saved.
+2025-01-31 00:41:48,166 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:49,745 - INFO - Old message 662 from DoctorsET saved.
+2025-01-31 00:41:49,746 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:50,676 - INFO - Old message 661 from DoctorsET saved.
+2025-01-31 00:41:50,677 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:52,237 - INFO - Old message 660 from DoctorsET saved.
+2025-01-31 00:41:52,239 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:53,510 - INFO - Old message 659 from DoctorsET saved.
+2025-01-31 00:41:53,511 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:54,712 - INFO - Old message 658 from DoctorsET saved.
+2025-01-31 00:41:54,713 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:56,097 - INFO - Old message 657 from DoctorsET saved.
+2025-01-31 00:41:56,098 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:56,239 - INFO - Old message 656 from DoctorsET saved.
+2025-01-31 00:41:56,240 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:57,104 - INFO - Old message 655 from DoctorsET saved.
+2025-01-31 00:41:57,106 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:58,210 - INFO - Old message 654 from DoctorsET saved.
+2025-01-31 00:41:58,212 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:41:59,410 - INFO - Old message 653 from DoctorsET saved.
+2025-01-31 00:41:59,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:00,411 - INFO - Old message 652 from DoctorsET saved.
+2025-01-31 00:42:00,412 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:01,282 - INFO - Old message 651 from DoctorsET saved.
+2025-01-31 00:42:01,283 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:02,457 - INFO - Old message 650 from DoctorsET saved.
+2025-01-31 00:42:02,458 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:03,611 - INFO - Old message 648 from DoctorsET saved.
+2025-01-31 00:42:03,612 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:04,286 - INFO - Old message 647 from DoctorsET saved.
+2025-01-31 00:42:04,288 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:05,416 - INFO - Old message 644 from DoctorsET saved.
+2025-01-31 00:42:06,122 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:07,060 - INFO - Old message 643 from DoctorsET saved.
+2025-01-31 00:42:07,061 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:08,139 - INFO - Old message 642 from DoctorsET saved.
+2025-01-31 00:42:08,142 - INFO - Old message 641 from DoctorsET saved.
+2025-01-31 00:42:08,143 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:09,638 - INFO - Old message 640 from DoctorsET saved.
+2025-01-31 00:42:09,639 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:11,152 - INFO - Old message 639 from DoctorsET saved.
+2025-01-31 00:42:11,153 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:12,739 - INFO - Old message 638 from DoctorsET saved.
+2025-01-31 00:42:12,740 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:14,439 - INFO - Old message 637 from DoctorsET saved.
+2025-01-31 00:42:14,440 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:15,939 - INFO - Old message 636 from DoctorsET saved.
+2025-01-31 00:42:15,940 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:17,989 - INFO - Old message 635 from DoctorsET saved.
+2025-01-31 00:42:17,990 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:20,083 - INFO - Old message 634 from DoctorsET saved.
+2025-01-31 00:42:20,085 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:21,337 - INFO - Old message 633 from DoctorsET saved.
+2025-01-31 00:42:21,338 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:22,379 - INFO - Old message 632 from DoctorsET saved.
+2025-01-31 00:42:22,381 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:24,028 - INFO - Old message 631 from DoctorsET saved.
+2025-01-31 00:42:24,029 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:25,480 - INFO - Old message 630 from DoctorsET saved.
+2025-01-31 00:42:25,481 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:27,215 - INFO - Old message 629 from DoctorsET saved.
+2025-01-31 00:42:27,217 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:28,595 - INFO - Old message 628 from DoctorsET saved.
+2025-01-31 00:42:28,597 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:30,108 - INFO - Old message 627 from DoctorsET saved.
+2025-01-31 00:42:30,109 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:31,517 - INFO - Old message 626 from DoctorsET saved.
+2025-01-31 00:42:31,518 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:32,911 - INFO - Old message 625 from DoctorsET saved.
+2025-01-31 00:42:32,912 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:33,901 - INFO - Old message 624 from DoctorsET saved.
+2025-01-31 00:42:33,903 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:34,717 - INFO - Old message 623 from DoctorsET saved.
+2025-01-31 00:42:34,718 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:35,041 - INFO - Old message 622 from DoctorsET saved.
+2025-01-31 00:42:35,043 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:35,352 - INFO - Old message 621 from DoctorsET saved.
+2025-01-31 00:42:35,353 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:36,825 - INFO - Old message 620 from DoctorsET saved.
+2025-01-31 00:42:36,826 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:38,422 - INFO - Old message 619 from DoctorsET saved.
+2025-01-31 00:42:38,423 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:39,570 - INFO - Old message 618 from DoctorsET saved.
+2025-01-31 00:42:39,571 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:41,013 - INFO - Old message 617 from DoctorsET saved.
+2025-01-31 00:42:41,014 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:41,899 - INFO - Old message 616 from DoctorsET saved.
+2025-01-31 00:42:41,901 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:42,624 - INFO - Old message 615 from DoctorsET saved.
+2025-01-31 00:42:42,625 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:43,194 - INFO - Old message 614 from DoctorsET saved.
+2025-01-31 00:42:43,195 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:44,304 - INFO - Old message 613 from DoctorsET saved.
+2025-01-31 00:42:44,305 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:45,787 - INFO - Old message 612 from DoctorsET saved.
+2025-01-31 00:42:45,788 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:47,272 - INFO - Old message 611 from DoctorsET saved.
+2025-01-31 00:42:47,273 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:48,334 - INFO - Old message 610 from DoctorsET saved.
+2025-01-31 00:42:48,335 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:49,715 - INFO - Old message 609 from DoctorsET saved.
+2025-01-31 00:42:49,717 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:51,356 - INFO - Old message 607 from DoctorsET saved.
+2025-01-31 00:42:51,357 - INFO - Old message 606 from DoctorsET saved.
+2025-01-31 00:42:51,358 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:53,359 - INFO - Old message 605 from DoctorsET saved.
+2025-01-31 00:42:53,360 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:53,944 - INFO - Old message 604 from DoctorsET saved.
+2025-01-31 00:42:53,946 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:54,254 - INFO - Old message 603 from DoctorsET saved.
+2025-01-31 00:42:54,255 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:55,708 - INFO - Old message 602 from DoctorsET saved.
+2025-01-31 00:42:55,710 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:57,175 - INFO - Old message 601 from DoctorsET saved.
+2025-01-31 00:42:57,176 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:58,255 - INFO - Old message 600 from DoctorsET saved.
+2025-01-31 00:42:58,256 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:42:59,319 - INFO - Old message 599 from DoctorsET saved.
+2025-01-31 00:42:59,320 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:00,725 - INFO - Old message 597 from DoctorsET saved.
+2025-01-31 00:43:00,726 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:01,671 - INFO - Old message 596 from DoctorsET saved.
+2025-01-31 00:43:01,673 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:02,893 - INFO - Old message 595 from DoctorsET saved.
+2025-01-31 00:43:02,895 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:03,974 - INFO - Old message 594 from DoctorsET saved.
+2025-01-31 00:43:03,976 - INFO - Old message 593 from DoctorsET saved.
+2025-01-31 00:43:03,977 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:05,102 - INFO - Old message 592 from DoctorsET saved.
+2025-01-31 00:43:05,103 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:06,504 - INFO - Old message 591 from DoctorsET saved.
+2025-01-31 00:43:06,505 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:08,154 - INFO - Old message 590 from DoctorsET saved.
+2025-01-31 00:43:08,156 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:09,784 - INFO - Old message 589 from DoctorsET saved.
+2025-01-31 00:43:09,785 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:11,248 - INFO - Old message 588 from DoctorsET saved.
+2025-01-31 00:43:11,249 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:12,154 - INFO - Old message 587 from DoctorsET saved.
+2025-01-31 00:43:12,155 - INFO - Old message 586 from DoctorsET saved.
+2025-01-31 00:43:12,156 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:13,354 - INFO - Old message 585 from DoctorsET saved.
+2025-01-31 00:43:13,356 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:14,824 - INFO - Old message 584 from DoctorsET saved.
+2025-01-31 00:43:14,825 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:15,736 - INFO - Old message 583 from DoctorsET saved.
+2025-01-31 00:43:15,737 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:16,427 - INFO - Old message 582 from DoctorsET saved.
+2025-01-31 00:43:16,429 - INFO - Old message 581 from DoctorsET saved.
+2025-01-31 00:43:16,430 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:17,066 - INFO - Old message 579 from DoctorsET saved.
+2025-01-31 00:43:17,067 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:55,395 - INFO - Old message 578 from DoctorsET saved.
+2025-01-31 00:43:55,396 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:43:56,804 - INFO - Old message 577 from DoctorsET saved.
+2025-01-31 00:43:56,805 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:45:33,590 - INFO - Old message 576 from DoctorsET saved.
+2025-01-31 00:45:33,592 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:45:35,324 - INFO - Old message 575 from DoctorsET saved.
+2025-01-31 00:45:35,324 - INFO - Old message 574 from DoctorsET saved.
+2025-01-31 00:45:35,326 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:45:36,561 - INFO - Old message 573 from DoctorsET saved.
+2025-01-31 00:45:36,562 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:45:37,595 - INFO - Old message 572 from DoctorsET saved.
+2025-01-31 00:45:37,596 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:45:38,945 - INFO - Old message 571 from DoctorsET saved.
+2025-01-31 00:45:38,946 - INFO - Old message 570 from DoctorsET saved.
+2025-01-31 00:45:38,947 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:13,430 - INFO - Old message 569 from DoctorsET saved.
+2025-01-31 00:46:13,431 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:14,338 - INFO - Old message 568 from DoctorsET saved.
+2025-01-31 00:46:14,354 - INFO - Old message 567 from DoctorsET saved.
+2025-01-31 00:46:14,355 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:14,757 - INFO - Old message 566 from DoctorsET saved.
+2025-01-31 00:46:14,758 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:14,959 - INFO - Old message 565 from DoctorsET saved.
+2025-01-31 00:46:14,960 - INFO - Old message 564 from DoctorsET saved.
+2025-01-31 00:46:14,961 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:15,483 - INFO - Old message 563 from DoctorsET saved.
+2025-01-31 00:46:15,484 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:17,049 - INFO - Old message 562 from DoctorsET saved.
+2025-01-31 00:46:17,050 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:17,414 - INFO - Old message 561 from DoctorsET saved.
+2025-01-31 00:46:17,415 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:46:18,751 - INFO - Old message 560 from DoctorsET saved.
+2025-01-31 00:46:18,753 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:48,659 - INFO - Old message 559 from DoctorsET saved.
+2025-01-31 00:47:48,660 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:49,636 - INFO - Old message 558 from DoctorsET saved.
+2025-01-31 00:47:49,637 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:51,115 - INFO - Old message 557 from DoctorsET saved.
+2025-01-31 00:47:51,116 - INFO - Old message 556 from DoctorsET saved.
+2025-01-31 00:47:51,117 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:52,078 - INFO - Old message 555 from DoctorsET saved.
+2025-01-31 00:47:52,079 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:52,905 - INFO - Old message 554 from DoctorsET saved.
+2025-01-31 00:47:52,906 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:54,013 - INFO - Old message 553 from DoctorsET saved.
+2025-01-31 00:47:54,014 - INFO - Old message 552 from DoctorsET saved.
+2025-01-31 00:47:54,016 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:47:54,940 - INFO - Old message 551 from DoctorsET saved.
+2025-01-31 00:47:54,941 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:48:49,828 - INFO - Old message 550 from DoctorsET saved.
+2025-01-31 00:48:49,830 - INFO - Starting direct file download in chunks of 131072 at 0, stride 131072
+2025-01-31 00:49:54,155 - INFO - Disconnecting from 149.154.167.92:443/TcpFull...
+2025-01-31 00:49:54,156 - INFO - Disconnection from 149.154.167.92:443/TcpFull complete!
+2025-01-31 00:49:54,175 - INFO - Script stopped by user
+2025-01-31 00:49:54,176 - INFO - Database connection closed
